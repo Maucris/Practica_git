@@ -42,7 +42,7 @@ Una vez con la copia en nuestra computadora, abrimos la terminal. Dentro de la t
 - ` git clone URL-REPOSITORIO`: copiar repositorio remoto en repositorio local 
 - ` git pull ALIAS NOMBRE-RAMA`:  actualizar cambios de repositorio remoto en repositorio local
 
-### Notas sobre el archivo .gitignore
+## Notas sobre el archivo .gitignore
 
 <p style="text-align: justify;">
 El archivo `.gitignore` se crea para evitar que archivos se compartan en el repositorio remoto, ya que no se necesitan. Estos archivos pueden ser archivos de compilación, archivos temporales o archivos de depuración, como el que nosotros ignoramos.
